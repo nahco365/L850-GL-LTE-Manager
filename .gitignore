@@ -1,0 +1,14 @@
+host-key.txt
+.known_hosts
+.env
+*.pem
+*.key
+*.log
+*.crash
+*.so
+*.deb
+*.tar.*
+*.zip
+__pycache__/
+*.pyc
+build/
